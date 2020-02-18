@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/herberthudson/vstore/issues"
   },
-  "homepage": "https://github.com/herberthudson/vstore#readme"
+  "homepage": "https://github.com/herberthudson/vstore#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
