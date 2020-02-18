@@ -1,0 +1,9 @@
+{
+    "extensions.enabled": ["dbaeumer.vscode-eslint"],
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "prettier.tabWidth": 4,
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "all"
+}
