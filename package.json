@@ -1,0 +1,26 @@
+{
+  "name": "vstore",
+  "version": "1.0.0",
+  "description": "Electron vendor store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herberthudson/vstore.git"
+  },
+  "keywords": [
+    "Electron",
+    "React",
+    "Javascript",
+    "Node",
+    "Sequelize"
+  ],
+  "author": "Herbert Hudson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herberthudson/vstore/issues"
+  },
+  "homepage": "https://github.com/herberthudson/vstore#readme"
+}
